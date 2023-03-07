@@ -1,3 +1,3 @@
-class Vendor
+# class Vendor
   
-end
+# end
